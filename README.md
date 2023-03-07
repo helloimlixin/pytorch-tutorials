@@ -5,4 +5,4 @@ A repo of PyTorch tutorials for future reference.
 
 - [Introduction to PyTorch](/Introduction%20to%20PyTorch/)
     - [Tensors in PyTorch](/Introduction%20to%20PyTorch/Tensors.ipynb)
-    - Datasets and DataLoaders
+    - [Datasets and DataLoaders](/Introduction%20to%20PyTorch/Datasets%20and%20DataLoaders.ipynb)
